@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">travelto</string>
+    <string name="logo_name">GoTravel</string>
+    <string name="slogan_name">Adventures Fill Soul.</string>
+    <string name="powered_by">Powered by PEL.</string>
+
+    <!--strings for on boarding screen-->
+    <string name="first_slide_title">Search Your Location</string>
+    <string name="second_slide_title">Make A Call</string>
+    <string name="third_slide_title">Add Place</string>
+    <string name="fourth_slide_title">Sit Back And Enjoy</string>
+
+    <!--Descriptions-->
+
+    <string name="first_slide_desc">You can search any place nearby or with-in the specified city</string>
+    <string name="second_slide_desc">If you any questions....</string>
+    <string name="third_slide_desc">If you want....</string>
+    <string name="fourth_slide_desc">We will handle everything for you</string>
+
+    <!--Buttons-->
+    <string name="skip_btn">Skip</string>
+    <string name="next_btn">Next</string>
+    <string name="let_get_started">Lets Get Started</string>
+
+
+    <!--strings for dashboard-->
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Beach</string>
+    <string name="shops">City Breaks</string>
+    <string name="banks">History</string>
+    <string name="airports">Expedition Cruising</string>
+
+    <!--titles and descriptions-->
+    <string name="featured_locations">All Featured Locations</string>
+    <string name="featured_locations_description">Top demanded places</string>
+    <string name="most_viewed_locations">Most Viewed</string>
+    <string name="categories">Categories</string>
+    <string name="view_all">View All</string>
+    <string name="search_text">Search....</string>
+    <string name="home">Home</string>
+    <string name="search">SEARCH</string>
+    <string name="all_categories">ALL CATEGORIES</string>
+    <string name="add_missing_place">ADD MISSING PLACE</string>
+    <string name="login">LOG IN</string>
+    <string name="profile">PROFILE</string>
+    <string name="logout">LOGOUT</string>
+    <string name="share">SHARE</string>
+    <string name="rate_us">RATE US</string>
+    <string name="expand">Expand All</string>
+    <string name="welcome">Welcome! You don\'t have an account? Join us!</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="how_we_work">HOW WE WORK</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="password">Enter Passsword</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="forget_password">FORGET PASSWORD</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="enter_full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="enter_mail">Email</string>
+    <string name="enter_phone_number">Phone Number</string>
+    <string name="password_signup">Password</string>
+
+    <!--otp description-->
+
+    <string name="otp_text_code">Code</string>
+    <string name="otp_verif_code">Verification</string>
+    <string name="otp_desc_code">Enter one time the password</string>
+    <string name="forget_pass_detail">PROVIDE YOUR ACCOUNT\'S EMAIL FOR WHICH YOU WANT TO RESET YOUR PASSWORD!</string>
+    <string name="selection_detail">Select which contact detail should we use to reset your password.</string>
+    <string name="make_select">Make Selection</string>
+    <string name="sms">Via sms:</string>
+    <string name="mail">Via mail:</string>
+    <string name="set_new_pass">Set the new password</string>
+    <string name="desc_new_pass">Your identity has been verified!</string>
+
+
+</resources>
